@@ -1,22 +1,20 @@
 [
     {
-		"name": "Adelle Corp",
-		"leaderName": "Kane",
+		"name": "Timurid Empire",
+		"leaderName": "Timur",
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "Sample text.",
-		"startIntroPart2": "Sample text.",
-		"declaringWar": "You stand in the way of my people. Let us solve this like warriors!",
-		"attacked": "You dare have the courage to challenge nod, but no fear, for I will sweep you out of history.",
-		"defeated": "You have the guts to call my body a corpse but beware, I know what will happen to our future- our tiberium future.",
-		"introduction": "If I am cut, Do I not bleed?",
+		"startIntroPart1": "Oh great timur! all mortal men in the middle east quaked at your feet. Yet your acheivments were overshadowed by the great Temuujin! Build your empire a new and build a new legacy! ",
+		"declaringWar": "What mortal sin have you done, that Allah would send me to correct them? Count each day as a blessing and seek repentance.",
+		"attacked": "You dare!",
+		"defeated": "May allah withdraw your blessings.",
+		"introduction": "In rectitude lies salvation",
 		"tradeRequest": "I am not always this generous, but we hope you take this rare opportunity we give you.",
 		"outerColor": [0,0,0],
-		"innerColor": [142,22,0],
-		"uniqueName": "Word of Nod",
-		"uniques": ["[+30]% Strength <vs [City-States]>", "[+2] Movement <for [Armored] units>"],
-		"cities": ["Ketilsstaoir","Frooaross","Hraun","Geirhildarvatn","Dumbshaf","Leioolfsstaoir","Hraunsass","Mosfell","Geirmundarstaoir","Holmgaror","Selaeyrr",
-"Horga","Fellshverfi","Kalfborgara","Reykir inir efri","Bolstaor","Beruvikrhraun","Berghylr","Rauosgil"]
+		"innerColor": [142,22,0]
+		"favoredReligion": "Sunni",
+		"uniques": ["[+30]% Strength <vs [City-States]>", "[+100]% [Horses] resource production","[+1] Movement <for [Mounted] units>"],
+		"cities": ["Samarkand","Herat","Kabul","Hormuz","Aleppo","Urgench","Zaranj","Basra","Astrabad","Sivas"]
 	},
 
 	{
