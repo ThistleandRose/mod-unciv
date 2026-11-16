@@ -2,6 +2,7 @@
     {
 		"name": "The Timurids",
 		"leaderName": "Timur",
+        "startBias": ["Avoid [Jungle]", "Avoid [Forest]",, "Avoid [Coast]"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Oh great timur! all mortal men in the middle east quaked at your feet. Yet your acheivments were overshadowed by the great Temuujin! Build your empire a new and build a new legacy! ",
